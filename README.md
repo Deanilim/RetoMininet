@@ -4,44 +4,45 @@
 ## PROCEDIMIENTOS
 
 1. Ejecutar un comando de prueba con Mininet:
-- sudo mn --switch ovsk --test pingall
+   - sudo mn --switch ovsk --test pingall
   
 2. Iniciar la interfaz gráfica de Mininet (Miniedit):
-- sudo python /usr/share/mininet/examples/miniedit.py
+   - sudo python /usr/share/mininet/examples/miniedit.py
 
 3. Obtener ayuda sobre los comandos disponibles en Mininet:
-- help
+   - help
 
 4. Ver los nodos conectados en la red:
-- nodes
+   - nodes
 
 5. Ver los puertos y enlaces de la red:
-- net
+   - net
 
 6. Obtener detalles de todos los nodos:
-- dump
+   - dump
 
 7. Ver los procesos activos en un host específico (ejemplo: h1):
-- h1 ps -a
+   - h1 ps -a
 
 8. Iniciar Mininet desde la terminal:
-- sudo mn
+   - sudo mn
 
 9. Hacer ping entre dos nodos específicos (ejemplo: h1 a h2):
-- h1 ping -c 1 h2
+   - h1 ping -c 1 h2
 
-10. Hacer ping a todos los nodos de la red:
-- pingall
+10.  Hacer ping a todos los nodos de la red:
+     - pingall
 
-11. Habilitar un enlace de un switch (ejemplo: s1):
-- link s1 up
+11.  Habilitar un enlace de un switch (ejemplo: s1):
+     - link s1 up
 
-12. Deshabilitar un enlace de un switch (ejemplo: s1):
-- link s1 down
+12.  Deshabilitar un enlace de un switch (ejemplo: s1):
+     - link s1 down
 
-13. Medir el ancho de banda entre dos nodos con iperf (ejemplo: - h1 y h2):
-- h1 iperf -s &
-- h2 iperf -c h1
+13.  Medir el ancho de banda entre dos nodos con iperf (ejemplo: 
+     - h1 y h2):
+     - h1 iperf -s &
+     - h2 iperf -c h1
 
-14. Salir de Mininet:
-- exit
+14.  Salir de Mininet:
+     - exit

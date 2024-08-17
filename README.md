@@ -1,1 +1,3 @@
-Proyecto de redes con mininet y como se interactur con comandos medinate la terminal de ubuntu 
+PROYECTO DE REDES CON MININET Y COMO SE INTERACTUA CON COMANDOS MEDIANTE LS TERMINAL DE UBUNTU
+
+#PROCEDIMIENTOS 

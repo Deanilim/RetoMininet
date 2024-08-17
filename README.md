@@ -1,8 +1,8 @@
-                PROYECTO DE REDES CON MININET Y COMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
+        PROYECTO DE REDES CON MININET Y COMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
 
 #PROCEDIMIENTOS
 1.- Ejecutar un comando de prueba con Mininet:
-    Este comando inicia una red virtual usando un switch de tipo Open vSwitch y prueba la conectividad entre     todos los nodos.
+    Este comando inicia una red virtual usando un switch de tipo Open vSwitch y prueba la conectividad entre todos los nodos.
               sudo mn --switch ovsk --test pingall
 
 2.- Iniciar la interfaz gráfica de Mininet (Miniedit):

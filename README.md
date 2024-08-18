@@ -3,6 +3,12 @@
   PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
 </p>
 
+### NOMBRES DE LOS INTEGRANTES:
+    - Deanira Lim Chambi
+    - Alan Justin Colque Villanueva
+    - Sara Michelle Zurita Herbas
+    - Carlos Manuel Fuentes Arevalo
+
 ### PROCEDIMIENTOS
 
 1. **Ejecutar un comando de prueba con Mininet:**
@@ -78,4 +84,4 @@
       exit
       ```
 ## Enlace Adicional
-Puedes acceder al documento relacionado en Google Drive aquí: [Enlace del documento del reto tecnológico](https://drive.google.com/file/d/1FiACRHnfzqF6kFtO2bHbWBo6HMsngdDt/view?usp=sharing)
+Acceder al documento relacionado en Google Drive aquí: [Enlace del documento del reto tecnológico](https://drive.google.com/file/d/1FiACRHnfzqF6kFtO2bHbWBo6HMsngdDt/view?usp=sharing)

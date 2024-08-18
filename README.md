@@ -1,6 +1,6 @@
        
-<p align="center" style="font-size: 36px;">
-  <strong>PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU</strong>
+<p align="center" style="font-size: 36px; font-weight: bold;">
+  PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
 </p>
 
 ### PROCEDIMIENTOS

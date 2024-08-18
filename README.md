@@ -1,14 +1,14 @@
-<p align="center" style="font-size: 50px; font-weight: bold;">
+<h1 align="center">
   PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
-</p>
+</h1>
 
-### NOMBRES DE LOS INTEGRANTES:
+##### NOMBRES DE LOS INTEGRANTES:
     - Deanira Lim Chambi
     - Alan Justin Colque Villanueva
     - Sara Michelle Zurita Herbas
     - Carlos Manuel Fuentes Arevalo
 
-### PROCEDIMIENTOS
+##### PROCEDIMIENTOS
 
 1. **Ejecutar un comando de prueba con Mininet:**
    - ```bash

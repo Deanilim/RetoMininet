@@ -78,4 +78,4 @@
       exit
       ```
 ## Enlace Adicional
-Puedes acceder al documento relacionado en Google Drive aquí: [Enlace del documento del reto tecnológico](https://drive.google.com/file/d/1FiACRHnfzqF6kFtO2bHbWBo6HMsngdDt/view?usp=sharing)
+Acceder al documento relacionado en Google Drive aquí: [Enlace del documento del reto tecnológico](https://drive.google.com/file/d/1FiACRHnfzqF6kFtO2bHbWBo6HMsngdDt/view?usp=sharing)

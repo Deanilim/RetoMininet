@@ -1,5 +1,4 @@
-       
-<p align="center" style="font-size: 36px; font-weight: bold;">
+<p align="center" style="font-size: 50px; font-weight: bold;">
   PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
 </p>
 
@@ -84,4 +83,10 @@
       exit
       ```
 ## Enlace Adicional
+<<<<<<< HEAD
 Acceder al documento relacionado en Google Drive aquí: [Enlace del documento del reto tecnológico](https://drive.google.com/file/d/1FiACRHnfzqF6kFtO2bHbWBo6HMsngdDt/view?usp=sharing)
+=======
+Acceder al documento relacionado en Google Drive aquí: [Enlace del documento del reto tecnológico](https://drive.google.com/file/d/1FiACRHnfzqF6kFtO2bHbWBo6HMsngdDt/view?usp=sharing)
+
+Acceder al video relacionado en Google Drive aquí: [Enlace del video del reto tecnológico](https://drive.google.com/file/d/18BwPirwlpqRg-y2Y7btDiPR1dAo8Fg4R/view?usp=drivesdk)
+>>>>>>> cbbbafa5a79fdc979be9b741dabe24663288198a

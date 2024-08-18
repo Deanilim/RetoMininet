@@ -1,4 +1,3 @@
-       
 <p align="center" style="font-size: 50px; font-weight: bold;">
   PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU
 </p>

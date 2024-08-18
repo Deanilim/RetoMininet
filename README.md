@@ -3,14 +3,14 @@
   <strong>PROYECTO DE REDES CON MININET Y CÓMO SE INTERACTÚA CON COMANDOS MEDIANTE LA TERMINAL DE UBUNTU</strong>
 </p>
 
-## PROCEDIMIENTOS
+# PROCEDIMIENTOS
 
-1. **Ejecutar un comando de prueba con Mininet:**
+1. Ejecutar un comando de prueba con Mininet:
    - ```bash
      sudo mn --switch ovsk --test pingall
      ```
 
-2. **Iniciar la interfaz gráfica de Mininet (Miniedit):**
+2. Iniciar la interfaz gráfica de Mininet (Miniedit):
    - ```bash
      sudo python /usr/share/mininet/examples/miniedit.py
      ```
